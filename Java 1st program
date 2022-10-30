@@ -1,0 +1,25 @@
+ class variable{
+    public static void main(String[] args) {
+       int m=4;
+       int f=8;
+         System.out.println(e);
+         System.out.println(f);
+         double c=7.9;
+         double d=0.6;
+
+   System.out.println(j);
+   System.out.println(k);
+
+   char g='m';
+   char l='f';
+   System.out.println('g');
+   System.out.println('l');
+   String t="java is Happy";
+   System.out.println("y");
+
+
+
+   }
+ 
+
+      }
